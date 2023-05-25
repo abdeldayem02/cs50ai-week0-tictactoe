@@ -1,2 +1,3 @@
 # cs50ai-week0-tictactoe
-AI that plays Tic-Tac-Toe optimally using MiniMax algorthim.
+## AI that plays Tic-Tac-Toe optimally using MiniMax algorithm.
+There are two files in this project: **runner.py** and **tictactoe.py**. **tictactoe.py** contains all of the logic for playing the game, and for making optimal moves. **runner.py** contains all of the code to run the graphical interface for the game.
